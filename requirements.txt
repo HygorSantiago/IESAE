@@ -1,2 +1,2 @@
-streamlit
-pickle
+streamlit==1.14.0
+pickle==4.0
