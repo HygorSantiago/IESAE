@@ -1,2 +1,2 @@
 streamlit==1.15.1
-pickle
+pickle==4.0
