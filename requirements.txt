@@ -2,5 +2,3 @@ pandas==1.4.2
 streamlit==1.15.1
 scikit-learn==1.0.2
 docxtpl==0.16.5
-smtplib
-email
